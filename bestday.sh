@@ -1,5 +1,4 @@
 #!/bin/bash
-#!/bin/bash
 
 # Just a simple script to kickstart your morning
 
